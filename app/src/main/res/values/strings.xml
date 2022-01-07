@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AnimSplash Kotlin</string>
+    <string name="BloodBuddy">BlogBerry</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="bloodbuddy">BloodBuddy</string>
+    <string name="read_our_privacy_policy_the_data_linked_to_you">Read our Privacy policy, the data linked to you</string>
+    <string name="login">LogIn</string>
+    <string name="username_e_mail">Username/ e Mail</string>
+    <string name="todo">TODO</string>
+    <string name="add_a_device">+ Add a Device</string>
+
+    <string name="log_in">Log In</string>
+    <string name="click_home_tab_for_checking_your_nearby_donation_camps_and_indivisuals_in_need_with_inventories_of_blood_types_in_your_nearby_hospitals">Click Home tab for checking your nearby Donation Camps and indivisuals in need with Inventories of blood types in your nearby Hospitals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_Account">Account</string>
+    <string name="title_Blogs">Blogs</string>
+    <string name="data_collected_by_smart_blood_health_devices_is_presented_here">Data collected by smart blood health devices is presented here.</string>
+    <string name="email">Email</string>
+</resources>

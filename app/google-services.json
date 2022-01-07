@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887944647450",
+    "project_id": "animsplash-kotlin",
+    "storage_bucket": "animsplash-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887944647450:android:f2520b7eed60d478d352a3",
+        "android_client_info": {
+          "package_name": "com.example.animsplashkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887944647450-3tdji5uq339jopmda49mskcdrfl793il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTEqE6hJ7NyjZ_PhYyJJLopIxwGO61iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887944647450-3tdji5uq339jopmda49mskcdrfl793il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
